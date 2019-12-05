@@ -24,5 +24,9 @@ original Model : https://www.thingiverse.com/thing:1023779
 
 **My discord if you have any questions : ⛧Hörvik Pyysalo 💜💛#0666**
 
-the result (without the 3d model for the moment) 
+the result 
 ![like that](https://cdn.discordapp.com/attachments/619622990069628944/652112245287026708/JPEG_20191205_123903.jpg)
+
+![like that](https://cdn.discordapp.com/attachments/612717991750008862/652205367605985280/IMG_20191205_185028919_HDR.jpg)
+
+![like that](https://cdn.discordapp.com/attachments/612717991750008862/652205366964387850/IMG_20191205_185044015_HDR.jpg)
