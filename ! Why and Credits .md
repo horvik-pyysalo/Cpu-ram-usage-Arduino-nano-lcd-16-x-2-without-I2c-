@@ -3,7 +3,7 @@
 
 ## Cpu + ram usage Arduino nano lcd 16 x 2 ( without I2c ) (french language ) 
 
-Cette Repositories est un remake d'un code déjà existant, les juste modifier pour les personnes ( dont moi) qui ne possède pas de matériel adéquat comme Un port i2c pour les écrans lcd, ayant bien cherché sur internet , ce genre d'utilisation sur Arduino nano ( cpu and RAM usage) pratiquement tout le monde utilise ce module , c'est pour cela que je vous partage le mien!
+Cette Repositories est un remake d'un code déjà existant, je l'ai juste modifier pour les personnes ( dont moi) qui ne possède pas de matériel adéquat comme Un port i2c pour les écrans lcd, ayant bien cherché sur internet , ce genre d'utilisation sur Arduino nano ( cpu and RAM usage) ou pratiquement tout le monde utilise ce module , c'est pour cela que je vous partage le mien!
 
 _les modèles 3ds pour une possible immpresion 3d seront aussi ajoutés dans ce Repositories_
 
