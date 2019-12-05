@@ -25,4 +25,5 @@ original Model : https://www.thingiverse.com/thing:1023779
 **My discord if you have any questions : ⛧Hörvik Pyysalo 💜💛#0666**
 
 
- 	! result http://prntscr.com/q6kig5
+ 	
+ ! [Result] (http://prntscr.com/q6kig5)
