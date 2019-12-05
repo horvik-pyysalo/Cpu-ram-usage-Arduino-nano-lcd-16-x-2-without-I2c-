@@ -14,11 +14,12 @@ like that
 you can put Monitor in a stratup programe 
 
 do Win+r and write "shell:startup"
-![like that](https://cdn.discordapp.com/attachments/619622990069628944/652129999322873856/unknown.png)
-
-and put Monitor.exe in Startup folder 
 
 ![like that](https://cdn.discordapp.com/attachments/619622990069628944/652130238846861315/unknown.png)
 
+
+and put Monitor.exe in Startup folder 
+
+![like that](https://cdn.discordapp.com/attachments/619622990069628944/652129999322873856/unknown.png)
 
 and normaly , when you start your pc , monitor will open on its own 
