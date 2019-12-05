@@ -23,7 +23,3 @@ original code  : https://create.arduino.cc/projecthub/thesahilsaluja/cpu-and-ram
 original Model : https://www.thingiverse.com/thing:1023779
 
 **My discord if you have any questions : ⛧Hörvik Pyysalo 💜💛#0666**
-
-
- 	
- ![Result](http://prntscr.com/q6kig5)
