@@ -20,6 +20,6 @@ do Win+r and write "shell:startup"
 
 and put Monitor.exe in Startup folder 
 
-![like that](https://cdn.discordapp.com/attachments/619622990069628944/652129999322873856/unknown.png)
+![like that](https://cdn.discordapp.com/attachments/675054653502914612/678230027015422002/unknown.png)
 
 and normaly , when you start your pc , monitor will open on its own 
