@@ -22,4 +22,4 @@ and put Monitor.exe in Startup folder
 
 ![like that](https://cdn.discordapp.com/attachments/675054653502914612/678230027015422002/unknown.png)
 
-and normaly , when you start your pc , monitor will open on its own 
+and normaly , when you start your pc , monitor will open by itself
